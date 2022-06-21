@@ -551,6 +551,10 @@ footer {
     padding: 60px 0;
 } 
 
+.footer-contacts {
+    margin-right: 70px;
+}
+
 .footer-logo {
     font-weight: 700;
     font-size: 26px;
@@ -586,16 +590,12 @@ footer {
 .footer-content {
     display: flex;
     align-items: baseline;
-    justify-content: space-between;
 } 
 
-/* .footer-contacts {
-    margin-right: 70px;
-} */
 
-/* .social-network {
-    margin-right: 93px;
-} */
+.social-network {
+    margin-right: auto;
+}
 
 .social-title { 
     font-weight: 700;
